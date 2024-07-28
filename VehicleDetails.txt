@@ -1,0 +1,8 @@
+501,SUV,Mahindra,Scorpio,16000,0,2,2
+502,SUV,Mahindra,Bolero,8000,0,5,5
+503,SUV,Toyota,Innova,12000,1,5,4
+504,SUV,Mahindra,Thar,15000,0,5,5
+505,CAR,Maruti,Swift,3000,0,5,5
+506,CAR,Hyundai,Creta,10000,0,5,5
+507,PICKUP,TATA,Yodha,7000,0,5,5
+508,LUXURY,Audi,Q7,50000,0,1,1
